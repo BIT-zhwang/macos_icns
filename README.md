@@ -4,7 +4,7 @@
 
 ### Catalina
 
-![catalina image](https://github.com/BIT-zhwang/macos_icns/blob/main/resources/catalina_icons_thumbnail.png)
+![catalina image](https://github.com/BIT-zhwang/macos_icns/blob/main/resources/catalina_icons_thumbnail.jpg)
 
 ### Big Sur
 

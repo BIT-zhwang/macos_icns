@@ -4,10 +4,10 @@
 
 ### Catalina
 
-![map image](https://github.com/BIT-zhwang/uav-release/blob/master/resource/rmap_2d.png)
+![catalina image](https://github.com/BIT-zhwang/macos_icns/blob/main/resources/catalina_icons_thumbnail.png)
 
 ### Big Sur
 
-![map image](https://github.com/BIT-zhwang/uav-release/blob/master/resource/rmap_2d.png)
+![big sur image](https://github.com/BIT-zhwang/macos_icns/blob/main/resources/big_sur_icons_thumbnail.png)
 
 

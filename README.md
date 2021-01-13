@@ -1,6 +1,6 @@
 # macos_icns
  
-## The repository contains some icons file from version Catalina to Big Sur.
+The repository contains some icons file from version Catalina to Big Sur.
 
 ### Catalina
 
